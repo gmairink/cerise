@@ -1,8 +1,12 @@
+cd ~/cerise_github
+
+cat > .gitignore <<'EOF'
 # Local Conda environment
 /cerise_github/
 
-# Input datasets (hosted on Zenodo)
+# Input datasets and trained models (hosted on Zenodo)
 /raw_data/
+/model/
 
 # Figures excluded from the repository
 /visualization/sm_fig01/
@@ -13,5 +17,5 @@
 # Python cache and temporary files
 __pycache__/
 *.py[cod]
-.ipynb_checkpoints//model/
-/model/
+.ipynb_checkpoints/
+EOF
