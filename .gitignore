@@ -1,0 +1,16 @@
+# Local Conda environment
+/cerise_github/
+
+# Input datasets (hosted on Zenodo)
+/raw_data/
+
+# Figures excluded from the repository
+/visualization/sm_fig01/
+/visualization/sm_fig02/
+/visualization/sm_fig03/
+/visualization/sm_fig04/
+
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

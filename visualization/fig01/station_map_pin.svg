@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="256" height="256" viewBox="0 0 1024 1024"
+     role="img" aria-labelledby="title">
+  <title id="title">Yellow map pin</title>
+  <path fill="#FFC900" fill-rule="evenodd" clip-rule="evenodd"
+        d="M512 68
+           C338 68 198 208 198 381
+           C198 466 229 534 273 616
+           C337 734 420 874 512 955
+           C604 874 687 734 751 616
+           C795 534 826 466 826 381
+           C826 208 686 68 512 68 Z
+           M512 180
+           C414 180 336 259 336 357
+           C336 455 414 534 512 534
+           C610 534 688 455 688 357
+           C688 259 610 180 512 180 Z"/>
+</svg>
