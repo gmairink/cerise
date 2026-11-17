@@ -24,7 +24,7 @@ Using a virtual environment is recommended to keep the project dependencies sepa
 
 > **ATTENTION:** The input datasets and trained model files are not included in this GitHub repository. They are provided separately through the project's Zenodo archive.
 
-**Zenodo archive:** [Insert Zenodo DOI link]
+**Zenodo archive:** [https://doi.org/10.5281/zenodo.24202901](https://doi.org/10.5281/zenodo.24202901)
 
 The Zenodo record contains two downloadable archives:
 
